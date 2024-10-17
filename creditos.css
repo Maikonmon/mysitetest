@@ -1,0 +1,38 @@
+.credits-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.credits-container h2 {
+    margin-top: 0;
+}
+
+.credits-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.credits-container li {
+    margin-bottom: 10px;
+}
+
+.credits-container a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.credits-container a:hover {
+    color: #0056b3;
+}
+
+.credits-container p {
+    font-size: 14px;
+    color: #666;
+    margin-top: 20px;
+}
